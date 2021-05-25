@@ -1,4 +1,4 @@
-# Project 3 - *Parstagram*
+# Parstagram
 
 <h3>Part 1</h3>
 
