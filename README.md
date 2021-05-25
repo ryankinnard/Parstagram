@@ -19,7 +19,7 @@ The following  functionality is implemented:
 
 ## Video Walkthrough
 
-<img src='gifs/Part 2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='gifs/gif_3' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
