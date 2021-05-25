@@ -19,10 +19,6 @@ The following  functionality is implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-<img src='gifs/Part 1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 <img src='gifs/Part 2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
